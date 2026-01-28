@@ -29,7 +29,7 @@ Fine-tuning/
     deeplc.py
     resnet_finetune.py
     exofop_tess_kois.csv
-    combined_7_conformal_calibrated.ckpt
+    combined_7_conformal_calibrated.ckpt (à télécharger à l'adresse suivante : https://zenodo.org/records/10081600/files/combined_7_conformal_calibrated.ckpt?download=1)
 From-Scratch/
     CNN.ipynb
     LSTM.ipynb
